@@ -1,0 +1,17 @@
+{
+  "name": "Supervisão de Montagem Todeschini - Tracker",
+  "short_name": "Montagem Tracker",
+  "description": "Aplicativo para supervisão de montagem e acompanhamento de obras.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}
